@@ -1,1 +1,6 @@
-# C-program
+In this project for chada tech I was presented with the task to create a program that uses C++ and python to together with the following requirements: 
+  1- Produce a list of all items purchased in a given day along with the number of times each item   was purchased.
+  2-Produce a number representing how many times a specific item was purchased in a given day.
+  3-Produce a text-based histogram listing all items purchased in a given day, along with a             representation of the number of times each item was purchased.
+  
+I did a great job at integrating C++ and Python together, validating user and keeping the system nice and tidy. To enhance my code I would separate my functions, and main into different files to make the code more organized and easier to mantain. The most difficult part in this project was setting up C++ and python together, I overcame this issue by reinstalling python and selecting the right library. The skill of combining different languages together will be highly valuable down the line since there's so many assignments where python libraries could come in handy. I made this project maintanable, readable and adaptable by using the industry's best standards and conventions such as variable naming, clear comments throughout my code.
